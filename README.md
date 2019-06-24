@@ -1,8 +1,6 @@
 # Professional_Portfolio
 
-Content
-
-Your updated site should have the following content:
+The site contains:
 - My name
 - A link to a PDF of your resume
 - Links to my GitHub profile & LinkedIn page as well as your email address and phone number
