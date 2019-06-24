@@ -3964,9 +3964,10 @@ footer div.inner{
 
 #projectId	{
 text-align:center;
-font-size:60px;
+font-size:55px;
+/* text-combine-upright: 2px; */
 text-underline-position: below weight 5px;
-/* font-size:80px; */
+
 }
 
 .copyright{
