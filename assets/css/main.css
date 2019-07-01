@@ -2904,8 +2904,9 @@ input, select, textarea {
 /* Contact Method */
 
 	.contact-method {
-		margin: 0 0 2em 0;
+		margin: 0 0 .25em 0;
 		padding-left: 3.25em;
+
 		position: relative;
 	}
 
@@ -3955,16 +3956,19 @@ section.split{
 
 #contactId {
 	padding-left:80px;
+	margin-top:20px;
 }
 
 footer div.inner{
 	padding-left:70px;
+	position: center;
 }
 
 #projectId	{
 text-align:left;
 position:center;
 padding-left:70px;
+padding-top: 20px;
 
 /* color: #ffffff;
 font-weight: 600;
@@ -3981,8 +3985,13 @@ line-height: 1.65; */
 }
 
 
-
 .copyright{
 	text-align: center;
 	padding-top:40px;
+
+}
+
+.split	{
+	padding-bottom: 20px;
+	/* margin-top:30px; */
 }
