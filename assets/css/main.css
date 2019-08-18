@@ -99,7 +99,10 @@ input, select, textarea {
 	}
 
 	body {
-		background: #242943;
+		/* background: #242943; */
+			background: whitesmoke;
+				
+
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -116,7 +119,8 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: #ffffff;
+		/* color: #ffffff; */
+		color: gray;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 17pt;
 		font-weight: 300;
@@ -181,14 +185,16 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		/* color: #ffffff; */
+		color: gray;
 		font-weight: 600;
 		line-height: 1.65;
 		margin: 0 0 1em 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			/* color: inherit; */
+			color: gray;
 			border-bottom: 0;
 		}
 
@@ -1890,7 +1896,8 @@ input, select, textarea {
 		}
 
 	label {
-		color: #ffffff;
+		/* color: #ffffff; */
+		color: gray;
 		display: block;
 		font-size: 0.8em;
 		font-weight: 600;
@@ -1911,7 +1918,8 @@ input, select, textarea {
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: rgba(212, 212, 255, 0.035);
+		/* background: rgba(212, 212, 255, 0.035); */
+		background: whitesmoke;
 		border: none;
 		border-radius: 0;
 		color: inherit;
@@ -2457,7 +2465,8 @@ input, select, textarea {
 		}
 
 		table th {
-			color: #ffffff;
+			/* color: #ffffff; */
+			color: gray;
 			font-size: 0.9em;
 			font-weight: 600;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -3411,7 +3420,9 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			pointer-events: none;
-			background-color: #242943;
+			/* background-color: #242943; */
+			background-color: whitesmoke;
+
 			content: '';
 			display: block;
 			height: 100%;
@@ -3590,7 +3601,9 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #2a2f4a;
+		/* background-color: #2a2f4a; */
+		background-color: whitesmoke; 
+
 	}
 
 		#main > * {
