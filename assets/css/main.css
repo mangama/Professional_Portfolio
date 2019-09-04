@@ -120,7 +120,8 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		/* color: #ffffff; */
-		color: gray;
+		/* color: gray; */
+		color:black;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 17pt;
 		font-weight: 300;
@@ -1787,6 +1788,7 @@ input, select, textarea {
 		width: -ms-max-content;
 		width: max-content;
 		margin-bottom: 2em;
+
 	}
 
 		header.major > :first-child {
@@ -1800,7 +1802,8 @@ input, select, textarea {
 				background-color: #ffffff;
 				/* background-color: gray; */
 				display: block;
-				color:gray;
+				/* color:gray */
+				color: black;
 				height: 2px;
 				margin: 0.325em 0 0.5em 0;
 				width: 100%;
@@ -2475,8 +2478,9 @@ input, select, textarea {
 		}
 
 		table th {
-			color: #ffffff;
+			/* color: #ffffff; */
 			/* color: gray; */
+			color:black;
 			font-size: 0.9em;
 			font-weight: 600;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -2786,6 +2790,7 @@ input, select, textarea {
 
 			.tiles article h3 {
 				font-size: 1.em;
+				color:black;
 			}
 
 				.tiles article h3 a:hover {
